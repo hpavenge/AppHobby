@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- main screen-->
+  <string name="app_name">Axi Autorisatie</string>
+  <string name="tTitle_main">Welkom</string>
+  <string name="tsubTitle">V1.0</string>
+  <string name="btStart_main">Aanmelden</string>
+  <string name="btPin_main">Pin Login</string>
+  <string name="btInfo_main">Informatie</string>
+  <string name="btClose_main">Afsluiten</string>
+
+  <!-- login screen -->
+  <string name="btBarcode_login">Barcode</string>
+  <string name="btLogin_login">Login</string>
+  <string name="txtUsername_login">Gebruikersnaam</string>
+  <string name="txtPassword_login">Wachtwoord</string>
+  <string name="lbInfo_login">Vul uw gegevens in</string>
+
+  <!-- menu screen -->
+  <string name="tTitle_menu">Autorisatie meldingen</string>
+  <string name="tStatus_menu">Aan</string>
+  <string name="btHistory_menu">Historie</string>
+  <string name="btPause_menu">Pauze</string>
+  <string name="btLogout_menu">Afmelden</string>
+
+  <!-- Firebase -->
+  <string name="msg_subscribed">Subscribed to manager topic</string>
+  <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+  <string name="subscribe_to_news">Subscribe To PUSH</string>
+  <string name="log_token">Log Token</string>
+
+  <!--Detail screen -->
+  <string name="quickstart_message">Iets ging er mis</string>
+  <string name="allow_action">Toestaan</string>
+  <string name="cancel_action">Weigeren</string>
+  <string name="check_action">Meekijken</string>
+  <string name="skip_action">Negeer</string>
+  <string name="title_activity_login_activitytesto">Sign in</string>
+
+  <!-- Strings related to login -->
+  <string name="prompt_email">Email</string>
+  <string name="prompt_password">Password (optional)</string>
+  <string name="action_sign_in">Sign in or register</string>
+  <string name="action_sign_in_short">Sign in</string>
+  <string name="error_invalid_email">This email address is invalid</string>
+  <string name="error_invalid_password">This password is too short</string>
+  <string name="error_incorrect_password">This password is incorrect</string>
+  <string name="error_field_required">This field is required</string>
+  <string name="permission_rationale">
+    "Contacts permissions are needed for providing email
+    completions."
+  </string>
+
+  <!-- Strings for info screen -->
+  <string name="versionText">Versie: 1.0</string>
+  <string name="infoText">Met behulp van deze app kunt u autorisatie acties ontvangen. Na een autorisatie ontvangen te hebben kunt u deze bewerken zonder naar de kassa toe te hoeven lopen.</string>
+  <string name="madeBy">Deze app is gemaakt door AXI BV</string>
+</resources>
+
