@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1004751466276",
+    "firebase_url": "https://ravenpush-f8b8e.firebaseio.com",
+    "project_id": "ravenpush-f8b8e",
+    "storage_bucket": "ravenpush-f8b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004751466276:android:1d8fe7c263137229",
+        "android_client_info": {
+          "package_name": "com.example.nbsm.ravenpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004751466276-qk3k29f4nbencpoh1g0qi0le06lgjb81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-O805lR2cJ5vJCXQL7xIIGHHtqYkMIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004751466276:android:c42a471dfee043a5",
+        "android_client_info": {
+          "package_name": "com.example.nbsm.ravenpush2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004751466276-qk3k29f4nbencpoh1g0qi0le06lgjb81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-O805lR2cJ5vJCXQL7xIIGHHtqYkMIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
