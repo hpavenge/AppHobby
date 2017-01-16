@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" elementFormDefault="unqualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>23-12-2016 15:25:28</xs:documentation>
+    <xs:documentation>16-1-2017 12:10:00</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -830,6 +830,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1495,6 +1496,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2219,6 +2221,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2622,6 +2625,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2956,6 +2960,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3610,6 +3615,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4002,6 +4008,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4357,6 +4364,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4681,6 +4689,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4956,6 +4965,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5575,6 +5585,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6033,6 +6044,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6474,6 +6486,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6971,6 +6984,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7315,6 +7329,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7659,6 +7674,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8043,6 +8059,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8387,6 +8404,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8851,6 +8869,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -9241,6 +9260,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9549,6 +9569,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -10005,6 +10026,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10437,6 +10459,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10987,6 +11010,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -11484,6 +11508,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -12004,6 +12029,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -12727,6 +12753,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12983,6 +13010,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13239,6 +13267,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13495,6 +13524,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13751,6 +13781,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14007,6 +14038,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14263,6 +14295,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14519,6 +14552,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14979,6 +15013,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15262,6 +15297,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15518,6 +15554,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15774,6 +15811,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16030,6 +16068,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16326,6 +16365,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16592,6 +16632,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -16926,6 +16967,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17222,6 +17264,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17579,6 +17622,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17835,6 +17879,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18319,9 +18364,11 @@
             <xs:enumeration value="@id/BtnDeny" />
             <xs:enumeration value="@id/BtnSkip" />
             <xs:enumeration value="@id/BtnWatch" />
+            <xs:enumeration value="@id/demoImageView" />
             <xs:enumeration value="@id/logTokenButton" />
             <xs:enumeration value="@id/msgText" />
             <xs:enumeration value="@id/subscribeButton" />
+            <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@id/TxtvInfo" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
@@ -18419,6 +18466,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18814,6 +18862,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19165,6 +19214,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19760,6 +19810,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20129,6 +20180,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20545,6 +20597,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20921,6 +20974,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21193,6 +21247,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -21910,6 +21965,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22299,6 +22355,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -23399,6 +23456,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23667,6 +23725,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23991,6 +24050,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24287,6 +24347,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24543,6 +24604,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24799,6 +24861,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25055,6 +25118,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -25311,6 +25375,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26109,6 +26174,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26392,6 +26458,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -26736,6 +26803,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27473,6 +27541,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -27847,6 +27916,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28322,6 +28392,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28698,6 +28769,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28954,6 +29026,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29794,6 +29867,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30050,6 +30124,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30306,6 +30381,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30562,6 +30638,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30998,6 +31075,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31254,6 +31332,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31689,6 +31768,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -31955,6 +32035,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -32289,6 +32370,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33036,6 +33118,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33595,6 +33678,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -33988,6 +34072,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35222,6 +35307,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35546,6 +35632,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35903,6 +35990,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36239,6 +36327,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36495,6 +36584,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36791,6 +36881,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37047,6 +37138,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37505,6 +37597,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37771,6 +37864,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -38115,6 +38209,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -38459,6 +38554,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -38803,6 +38899,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -39137,6 +39234,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39420,6 +39518,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39676,6 +39775,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39932,6 +40032,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40188,6 +40289,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40444,6 +40546,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40928,6 +41031,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41184,6 +41288,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41440,6 +41545,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -42633,6 +42739,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43553,6 +43660,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43990,6 +44098,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -44818,6 +44927,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -45300,6 +45410,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -45572,6 +45683,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -45828,6 +45940,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -46094,6 +46207,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -46438,6 +46552,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -46824,6 +46939,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -47080,6 +47196,7 @@
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_normal" />
             <xs:enumeration value="@drawable/common_google_signin_btn_text_light_pressed" />
             <xs:enumeration value="@drawable/common_ic_googleplayservices" />
+            <xs:enumeration value="@drawable/green_button" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />

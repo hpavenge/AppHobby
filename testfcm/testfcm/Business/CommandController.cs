@@ -15,29 +15,29 @@ namespace testfcm.Business
 {
     class CommandController
     { 
-    List<ICommand> authorisationCommands;
+    List<ICommand> _authorisationCommands;
 
     public CommandController()
     {
-        authorisationCommands = new List<ICommand>();
+        _authorisationCommands = new List<ICommand>();
     }
 
-    public void setCommand(int slot, ICommand command)
+    public void SetCommand(int slot, ICommand command)
     {
-        authorisationCommands.Add(command);
+        _authorisationCommands.Add(command);
     }
 
-    public void launchCommand(int slot)
+    public void LaunchCommand(int slot)
     {
-        authorisationCommands[slot].execute();
+        _authorisationCommands[slot].Execute();
     }
 
     public String toString()
     {
         string info = "";
-        for (int i = 0; i < authorisationCommands.Count; i++)
+        for (int i = 0; i < _authorisationCommands.Count; i++)
         {
-            info += "slot:" + i + "Has command:" + authorisationCommands[i].GetType();
+            info += "slot:" + i + "Has command:" + _authorisationCommands[i].GetType();
         }
         return info;
     }

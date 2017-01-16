@@ -2,6 +2,10 @@ testfcm.EditAuthorisation, testfcm;md5e47985c5256d68079326f3d1662c881f.EditAutho
 testfcm.EditAuthorisation, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e47985c5256d68079326f3d1662c881f.EditAuthorisation
 testfcm.EditAuthorisation;md5e47985c5256d68079326f3d1662c881f.EditAuthorisation
 testfcm.EditAuthorisation;md5e47985c5256d68079326f3d1662c881f.EditAuthorisation
+testfcm.Home, testfcm;md5e47985c5256d68079326f3d1662c881f.Home
+testfcm.Home, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e47985c5256d68079326f3d1662c881f.Home
+testfcm.Home;md5e47985c5256d68079326f3d1662c881f.Home
+testfcm.Home;md5e47985c5256d68079326f3d1662c881f.Home
 testfcm.MainActivity, testfcm;md5e47985c5256d68079326f3d1662c881f.MainActivity
 testfcm.MainActivity, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e47985c5256d68079326f3d1662c881f.MainActivity
 testfcm.MainActivity;md5e47985c5256d68079326f3d1662c881f.MainActivity

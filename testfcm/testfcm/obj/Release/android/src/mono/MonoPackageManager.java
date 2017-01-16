@@ -97,8 +97,9 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "testfcm.dll" comes first in this list. */
-		"testfcm.dll",
+		/* We need to ensure that "AxiAutorisation.dll" comes first in this list. */
+		"AxiAutorisation.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Support.Compat.dll",
 		"Xamarin.Android.Support.Core.UI.dll",
 		"Xamarin.Android.Support.Core.Utils.dll",

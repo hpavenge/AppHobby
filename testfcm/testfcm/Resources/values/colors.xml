@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+  <color name="axiBg">#FF0000</color>
+  <color name="axiBgSecond">#A40000</color>
+  <color name="white">#FFFFFF</color>
+
+
+  <item name="dark_blue" type="color">#12469D</item>
+  <item name="light_blue" type="color">#0A90FF</item>
+  <item name="light_gray" type="color">#B8B8B8</item>
+  <item name="lighter_gray" type="color">E7E7E7</item>
+  <item name="dark_gray" type="color">#696969</item>
+  <item name="black" type="color">#000000</item>
+  <item name="lightest_gray" type="color">#F0F0F0</item>
+</resources>

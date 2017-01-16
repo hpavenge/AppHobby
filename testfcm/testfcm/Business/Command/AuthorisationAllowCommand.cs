@@ -16,18 +16,18 @@ namespace testfcm.Business.Command
 {
     class AuthorisationAllowCommand : ICommand
     {
-        AuthorisationRequest authorisationRequest;
-        private RestService restClient;
+        AuthorisationRequest _authorisationRequest;
+        private RestService _restClient;
 
         public AuthorisationAllowCommand(AuthorisationRequest authorisationRequest)
         {
-            this.authorisationRequest = authorisationRequest;
-            restClient = new RestService();
+            this._authorisationRequest = authorisationRequest;
+            _restClient = new RestService();
         }
-        public async void execute()
+        public async void Execute()
         {
-            authorisationRequest.Authorize("allow", "Nick van der Raaf");
-            await restClient.UpdateAuthorisationTask(authorisationRequest);
+            _authorisationRequest.Authorize("allow", "Nick van der Raaf");
+            await _restClient.UpdateAuthorisationTask(_authorisationRequest);
 
         }
     }

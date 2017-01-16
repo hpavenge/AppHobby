@@ -7,13 +7,13 @@ namespace testfcm
 {
         [Service]
         [IntentFilter(new[] { "com.google.firebase.INSTANCE_ID_EVENT" })]
-        public class MyFirebaseIIDService : FirebaseInstanceIdService
+        public class MyFirebaseIidService : FirebaseInstanceIdService
         {
-            const string TAG = "MyFirebaseIIDService";
+            const string Tag = "MyFirebaseIIDService";
             public override void OnTokenRefresh()
             {
                 var refreshedToken = FirebaseInstanceId.Instance.Token;
-                Log.Debug(TAG, "Refreshed token: " + refreshedToken);
+                Log.Debug(Tag, "Refreshed token: " + refreshedToken);
                 SendRegistrationToServer(refreshedToken);
             }
             void SendRegistrationToServer(string token)

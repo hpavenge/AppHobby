@@ -33,6 +33,7 @@
         <category android:name="android.intent.category.DEFAULT" />
       </intent-filter>
     </activity>
+    <activity android:label="Home" android:name="md5e47985c5256d68079326f3d1662c881f.Home" />
     <activity android:icon="@drawable/icon" android:label="testfcm" android:name="md5e47985c5256d68079326f3d1662c881f.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

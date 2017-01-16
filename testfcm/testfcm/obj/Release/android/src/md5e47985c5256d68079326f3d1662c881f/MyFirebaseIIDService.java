@@ -1,7 +1,7 @@
 package md5e47985c5256d68079326f3d1662c881f;
 
 
-public class MyFirebaseIIDService
+public class MyFirebaseIidService
 	extends com.google.firebase.iid.FirebaseInstanceIdService
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class MyFirebaseIIDService
 		__md_methods = 
 			"n_onTokenRefresh:()V:GetOnTokenRefreshHandler\n" +
 			"";
-		mono.android.Runtime.register ("testfcm.MyFirebaseIIDService, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MyFirebaseIIDService.class, __md_methods);
+		mono.android.Runtime.register ("testfcm.MyFirebaseIidService, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MyFirebaseIidService.class, __md_methods);
 	}
 
 
-	public MyFirebaseIIDService () throws java.lang.Throwable
+	public MyFirebaseIidService () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == MyFirebaseIIDService.class)
-			mono.android.TypeManager.Activate ("testfcm.MyFirebaseIIDService, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == MyFirebaseIidService.class)
+			mono.android.TypeManager.Activate ("testfcm.MyFirebaseIidService, testfcm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

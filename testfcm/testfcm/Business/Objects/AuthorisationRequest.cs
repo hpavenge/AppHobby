@@ -48,122 +48,122 @@ namespace testfcm.Business.Objects
         #endregion
 
         #region Propertys
-        public int getId()
+        public int GetId()
         {
             return Id;
         }
 
-        public void setId(int id)
+        public void SetId(int id)
         {
             Id = id;
         }
 
-        public String getDescription()
+        public String GetDescription()
         {
             return Description;
         }
 
-        public void setDescription(String description)
+        public void SetDescription(String description)
         {
             Description = description;
         }
 
-        public String getKassaOperatorName()
+        public String GetKassaOperatorName()
         {
             return KassaOperatorName;
         }
 
-        public void setKassaOperatorName(String kassaOperatorName)
+        public void SetKassaOperatorName(String kassaOperatorName)
         {
             KassaOperatorName = kassaOperatorName;
         }
 
-        public String getLocation()
+        public String GetLocation()
         {
             return Location;
         }
 
-        public void setLocation(String location)
+        public void SetLocation(String location)
         {
             Location = location;
         }
 
-        public double getTotalAmount()
+        public double GetTotalAmount()
         {
             return TotalAmount;
         }
 
-        public void setTotalAmount(double totalAmount)
+        public void SetTotalAmount(double totalAmount)
         {
             TotalAmount = totalAmount;
         }
 
-        public String getShopName()
+        public String GetShopName()
         {
             return ShopName;
         }
 
-        public void setShopName(String shopName)
+        public void SetShopName(String shopName)
         {
             ShopName = shopName;
         }
 
-        public String getDate()
+        public String GetDate()
         {
             return Date;
         }
 
-        public void setDate(String date)
+        public void SetDate(String date)
         {
             Date = date;
         }
 
-        public String getTime()
+        public String GetTime()
         {
             return Time;
         }
 
-        public void setTime(String time)
+        public void SetTime(String time)
         {
             Time = time;
         }
 
-        public String getStatus()
+        public String GetStatus()
         {
             return Status;
         }
 
-        public void setStatus(String status)
+        public void SetStatus(String status)
         {
             Status = status;
         }
 
-        public String getKassaId()
+        public String GetKassaId()
         {
             return KassaId;
         }
 
-        public void setKassaId(String kassaId)
+        public void SetKassaId(String kassaId)
         {
             KassaId = kassaId;
         }
 
-        public String getProgressed()
+        public String GetProgressed()
         {
             return Progressed;
         }
 
-        public void setProgressed(String progressed)
+        public void SetProgressed(String progressed)
         {
             Progressed = progressed;
         }
 
-        public int getAvailableUsers()
+        public int GetAvailableUsers()
         {
             return AvailableUsers;
         }
 
-        public void setAvailableUsers(int availableUsers)
+        public void SetAvailableUsers(int availableUsers)
         {
             AvailableUsers = availableUsers;
         }
@@ -175,21 +175,6 @@ namespace testfcm.Business.Objects
         {
             this.Status = status;
             this.Progressed = progressed;
-        }
-        public void Allow(string progressed)
-        {
-            this.Status = "allow";
-            this.Progressed = progressed;
-        }
-
-        public void Deny()
-        {
-            this.Status = "deny";
-        }
-
-        public void Watch()
-        {
-            this.Status = "Watch";
         }
 
         public void Skip()

@@ -18,17 +18,17 @@ namespace testfcm.Service
 {
     class RestService : IRestService
     {
-        private HttpClient client;
+        private HttpClient _client;
 
         public RestService()
         {
-            client = new HttpClient
+            _client = new HttpClient
             {
                 MaxResponseContentBufferSize = 256000,
-                BaseAddress = new Uri("http://192.168.247.168:60917/api/")
+                BaseAddress = new Uri("http://192.168.247.197:60917/api/")
             };
-            client.DefaultRequestHeaders.Accept.Clear();
-            client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            _client.DefaultRequestHeaders.Accept.Clear();
+            _client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
         }
 
         /// <summary>
@@ -40,7 +40,7 @@ namespace testfcm.Service
         {
             string path = "AutorisationAPI/ViewAutorisation/" + id;
             AuthorisationRequest authorisationRequest = null;
-            HttpResponseMessage response = await client.GetAsync(path);
+            HttpResponseMessage response = await _client.GetAsync(path);
             if (response.IsSuccessStatusCode)
             {
                 var jsonAuthorisation = await response.Content.ReadAsStringAsync();
@@ -51,11 +51,11 @@ namespace testfcm.Service
 
         public async Task UpdateAuthorisationTask(AuthorisationRequest authorisationRequest)
         {
-            var uri = new Uri(string.Format(client.BaseAddress + "AutorisationAPI/UpdateAutorisation/" + authorisationRequest.getId()));
+            var uri = new Uri(string.Format(_client.BaseAddress + "AutorisationAPI/UpdateAutorisation/" + authorisationRequest.GetId()));
             string json = JsonConvert.SerializeObject(authorisationRequest);
             Console.WriteLine(json);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
-            HttpResponseMessage response = await client.PostAsync(uri, content);
+            HttpResponseMessage response = await _client.PostAsync(uri, content);
             if (response.IsSuccessStatusCode)
             {
                 Console.WriteLine("succesfully edited");

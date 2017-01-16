@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.nbsm.ravenpush" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
-  <uses-sdk android:minSdkVersion="21" />
+  <uses-sdk android:minSdkVersion="23" />
   <permission android:name="com.example.nbsm.ravenpush.permission.C2D_MESSAGE" android:protectionLevel="signature" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WAKE_LOCK" />
   <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
   <uses-permission android:name="com.example.nbsm.ravenpush.permission.C2D_MESSAGE" />
-  <application android:label="testfcm" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon">
+  <application android:label="Axi Autorisatie" android:name="android.app.Application" android:allowBackup="true">
     <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver" android:exported="false" />
     <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:exported="true" android:permission="com.google.android.c2dm.permission.SEND">
       <intent-filter>
@@ -26,17 +26,30 @@
       </intent-filter>
     </receiver>
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
-    <activity android:icon="@drawable/icon" android:label="testfcm" android:name="md5e47985c5256d68079326f3d1662c881f.MainActivity">
+    <activity android:label="EditAuthorisation" android:name="md5da594b52844f5f694fb1dc5415c2754b.EditAuthorisation">
+      <intent-filter>
+        <action android:name="ACTIVITY_AUTI" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Home" android:name="md5da594b52844f5f694fb1dc5415c2754b.Home" />
+    <activity android:icon="@drawable/axi_launcher" android:label="Axi Autorisatie" android:name="md5da594b52844f5f694fb1dc5415c2754b.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <service android:name="md5e47985c5256d68079326f3d1662c881f.MyFirebaseIIDService">
+    <service android:name="md5da594b52844f5f694fb1dc5415c2754b.MyFirebaseIidService">
       <intent-filter>
         <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
       </intent-filter>
     </service>
+    <service android:name="md5da594b52844f5f694fb1dc5415c2754b.MyFirebaseMessagingService">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+      </intent-filter>
+    </service>
+    <activity android:label="History" android:name="md581682545065b75c1bc1d0617e3f81fbb.History" />
     <provider android:authorities="com.example.nbsm.ravenpush.firebaseinitprovider" android:exported="true" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider" />
     <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
       <intent-filter android:priority="-500">

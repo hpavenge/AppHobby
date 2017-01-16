@@ -106,7 +106,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_google_signin_btn_text_light_normal=0x7f020013;
         public static final int common_google_signin_btn_text_light_pressed=0x7f020014;
         public static final int common_ic_googleplayservices=0x7f020015;
-        public static final int icon=0x7f020016;
+        public static final int green_button=0x7f020016;
+        public static final int icon=0x7f020017;
     }
     public static final class id {
         public static final int BtnAllow=0x7f07000d;
@@ -118,13 +119,15 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int adjust_width=0x7f070001;
         public static final int auto=0x7f070006;
         public static final int dark=0x7f070007;
+        public static final int demoImageView=0x7f07000f;
         public static final int icon_only=0x7f070003;
         public static final int light=0x7f070008;
-        public static final int logTokenButton=0x7f07000f;
-        public static final int msgText=0x7f07000e;
+        public static final int logTokenButton=0x7f070011;
+        public static final int msgText=0x7f070010;
         public static final int none=0x7f070002;
         public static final int standard=0x7f070004;
-        public static final int subscribeButton=0x7f070010;
+        public static final int subscribeButton=0x7f070012;
+        public static final int textView1=0x7f07000e;
         public static final int wide=0x7f070005;
     }
     public static final class integer {
@@ -132,7 +135,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class layout {
         public static final int editauthorisation=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int home=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int ApplicationName=0x7f05001c;

@@ -4,46 +4,228 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_weight="8">
-    <TextView
-        android:text="Text"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="4"
-        android:id="@+id/TxtvInfo" />
+  <TableLayout
+      android:layout_width="match_parent"
+      android:layout_height="259dp"
+      android:layout_marginTop="10dp"
+      android:layout_weight="0.25">
+
+    <TableRow
+        android:background="@drawable/axibutton"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/white"
+          android:text="Naam" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/white"
+          android:text="Inhoud" />
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Kassa" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableKassa"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Kassa van" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableOperator"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Beschrijving" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableDescription"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Locatie" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableLocation"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Huidig bedrag" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableAmount"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Winkel" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableShop"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Datum" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableDate"/>
+    </TableRow>
+
+    <TableRow
+        android:background="#ECEFF1"
+        android:padding="5dp">
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text="Tijd" />
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:textColor="@color/dark_gray"
+          android:text=""
+          android:id="@+id/tableTime"/>
+    </TableRow>
+  </TableLayout>
+  
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="80dp"
         android:layout_weight="2"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
         <Button
             android:text="Negeer"
-            android:layout_width="0dp"
-            android:layout_height="fill_parent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/BtnSkip" />
+            android:id="@+id/BtnSkip"
+            android:background="@drawable/axibutton"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/ic_skip"
+            android:layout_marginRight="10dp"/>
         <Button
             android:text="Weigeren"
-            android:layout_width="0dp"
-            android:layout_height="fill_parent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/BtnDeny" />
+            android:id="@+id/BtnDeny"
+            android:background="@drawable/axibutton"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/ic_cancel"
+            android:layout_marginRight="10dp"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="80dp"
         android:layout_weight="2"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
         <Button
             android:text="Meekijken"
             android:layout_width="match_parent"
-            android:layout_height="fill_parent"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/BtnWatch" />
+            android:id="@+id/BtnWatch"
+            android:background="@drawable/axibutton"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/ic_eye"
+            android:layout_marginRight="10dp"/>
         <Button
             android:text="Toestaan"
             android:layout_width="match_parent"
-            android:layout_height="fill_parent"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:id="@+id/BtnAllow" />
+            android:id="@+id/BtnAllow"
+            android:background="@drawable/axibutton_happy"
+            android:textColor="@color/white"
+            android:drawableLeft="@drawable/ic_allow"
+            android:layout_marginRight="10dp"/>
     </LinearLayout>
 </LinearLayout>
