@@ -16,7 +16,6 @@ C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Xamarin.Goog
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Xamarin.GooglePlayServices.Basement.dll
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Xamarin.GooglePlayServices.Tasks.dll
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Newtonsoft.Json.xml
-C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\AxiAutorisation.csprojResolveAssemblyReference.cache
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\AxiAutorisation.dll
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\AxiAutorisation.pdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\bin\com.example.nbsm.ravenpush.apk
@@ -50,6 +49,7 @@ C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\res\drawable
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\res\values\goog_svcs_json.xml
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\R.cs.flag
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\uploadflags.txt
+C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\AxiAutorisation.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Java.Interop.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Microsoft.CSharp.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\Mono.Android.dll.mdb
@@ -64,7 +64,7 @@ C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\System.Runti
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\System.ServiceModel.Internals.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\System.Xml.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\System.Xml.Linq.dll.mdb
-C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\testfcm.dll.mdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\AxiAutorisation.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\Java.Interop.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\Microsoft.CSharp.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\Mono.Android.dll.mdb
@@ -78,8 +78,5 @@ C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\asse
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\System.Xml.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\testfcm.dll.mdb
-C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\AxiAutorisation.dll.mdb
-C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\android\assets\AxiAutorisation.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\obj\Release\AxiAutorisation.dll.mdb
 C:\Users\nbsm\Documents\GitHub\AppHobby\testfcm\testfcm\bin\Release\AxiAutorisation.dll.mdb

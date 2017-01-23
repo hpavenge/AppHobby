@@ -142,35 +142,34 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static int icon=0x7f02002a;
     }
     public static final class id {
-        public static int BtnAllow=0x7f070015;
-        public static int BtnDeny=0x7f070013;
-        public static int BtnSkip=0x7f070012;
-        public static int BtnWatch=0x7f070014;
+        public static int BtnAllow=0x7f070014;
+        public static int BtnDeny=0x7f070012;
+        public static int BtnSkip=0x7f070011;
+        public static int BtnWatch=0x7f070013;
         public static int adjust_height=0x7f070000;
         public static int adjust_width=0x7f070001;
         public static int auto=0x7f070006;
-        public static int btHistory=0x7f070018;
-        public static int btLogout=0x7f07001a;
-        public static int btPause=0x7f070019;
+        public static int btHistory=0x7f070017;
+        public static int btLogout=0x7f070019;
+        public static int btPause=0x7f070018;
         public static int dark=0x7f070007;
         public static int icon_only=0x7f070003;
         public static int light=0x7f070008;
-        public static int logTokenButton=0x7f07001c;
-        public static int msgText=0x7f07001b;
+        public static int logTokenButton=0x7f07001b;
+        public static int msgText=0x7f07001a;
         public static int none=0x7f070002;
         public static int standard=0x7f070004;
-        public static int subscribeButton=0x7f07001d;
-        public static int tableAmount=0x7f07000e;
-        public static int tableDate=0x7f070010;
-        public static int tableDescription=0x7f07000c;
-        public static int tableKassa=0x7f07000a;
-        public static int tableLocation=0x7f07000d;
-        public static int tableOperator=0x7f07000b;
-        public static int tableShop=0x7f07000f;
-        public static int tableTime=0x7f070011;
-        public static int titelTextView=0x7f070009;
-        public static int tvStatus=0x7f070017;
-        public static int tvTitle=0x7f070016;
+        public static int subscribeButton=0x7f07001c;
+        public static int tableAmount=0x7f07000d;
+        public static int tableDate=0x7f07000f;
+        public static int tableDescription=0x7f07000b;
+        public static int tableKassa=0x7f070009;
+        public static int tableLocation=0x7f07000c;
+        public static int tableOperator=0x7f07000a;
+        public static int tableShop=0x7f07000e;
+        public static int tableTime=0x7f070010;
+        public static int tvStatus=0x7f070016;
+        public static int tvTitle=0x7f070015;
         public static int wide=0x7f070005;
     }
     public static final class integer {
@@ -178,8 +177,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
     }
     public static final class layout {
         public static int editauthorisation=0x7f030000;
-        public static int home=0x7f030001;
-        public static int main=0x7f030002;
+        public static int history=0x7f030001;
+        public static int home=0x7f030002;
+        public static int main=0x7f030003;
     }
     public static final class string {
         public static int ApplicationName=0x7f05001c;

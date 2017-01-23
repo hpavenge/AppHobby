@@ -1,0 +1,17 @@
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\AxiFormsAutorisation.dll
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\AxiFormsAutorisation.pdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\obj\Debug\AxiFormsAutorisation.csprojResolveAssemblyReference.cache
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\obj\Debug\AxiFormsAutorisation.dll
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\obj\Debug\AxiFormsAutorisation.pdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\obj\Debug\AxiFormsAutorisation.dll.mdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\AxiFormsAutorisation.dll.mdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\obj\Debug\AxiFormsAutorisation.dll.mdb
+C:\Users\nbsm\Documents\GitHub\AppHobby\XamarinFormsAxi\AxiFormsAutorisation\AxiFormsAutorisation\AxiFormsAutorisation\bin\Debug\AxiFormsAutorisation.dll.mdb
